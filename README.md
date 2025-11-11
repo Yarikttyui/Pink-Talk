@@ -96,15 +96,19 @@ npm start
 ---
 
 **Скриншоты мессенджера**
+
 <img width="2009" height="1166" alt="image" src="https://github.com/user-attachments/assets/ebdd889a-5ddd-4c84-8d81-2206354d9c1c" />
 
 **Окно регистрации**
+
 <img width="1592" height="873" alt="image" src="https://github.com/user-attachments/assets/c3ae588b-3a29-4614-aa3f-e6836d7a397b" />
 
 **Основное окно**
+
 <img width="1571" height="866" alt="image" src="https://github.com/user-attachments/assets/b721f7bf-e3e4-4efb-95b3-5f7d92c67d68" />
 
 **Профили**
+
 <img width="540" height="381" alt="image" src="https://github.com/user-attachments/assets/c923085e-a7cd-45a7-b92d-6540723369eb" />
 
 ## Авторы проекта
